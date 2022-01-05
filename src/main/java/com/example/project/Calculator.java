@@ -28,7 +28,7 @@ public class Calculator {
 			return a / b;
 		}
 		else {
-			return b / a;
+			return a / b;
 		}
 		 
 		
